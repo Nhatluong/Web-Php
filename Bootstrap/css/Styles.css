@@ -1,0 +1,29 @@
+/* phan header tran cung*/
+    .header{
+        background-color: #E8E8E8;
+        margin-top: 10px;
+        height: 30px;
+    }
+    .header p{
+        padding-top: 5px;
+        padding-left: 50px;
+    }
+    .header p span{
+        color: #FF5C01;
+    }
+    .h{
+        height: 30px;
+        width: 150px;
+        border: none;
+    }
+    .menuheader{
+        float: right;
+    }
+/* phan header tran cung*/
+
+    .form-group{
+        width: 80%;
+    }
+    .form-control{
+        width: 400px;
+    }

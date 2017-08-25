@@ -1,0 +1,169 @@
+/* phan header tran cung*/
+    .header{
+        background-color: #E8E8E8;
+        margin-top: 10px;
+        height: 30px;
+    }
+    .header p{
+        padding-top: 5px;
+        padding-left: 50px;
+    }
+    .header p span{
+        color: #FF5C01;
+    }
+    .h{
+        height: 30px;
+        width: 150px;
+        border: none;
+    }
+    .menuheader{
+        float: right;
+    }
+/* phan header tran cung*/
+
+/* phan banner*/
+    .banner .row .formbanner .form-inline .form-group .form-control{
+        width: 100%;
+    }
+    .banner{
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+    .hotline{
+        color: red;
+    }
+/* phan banner*/
+
+.breadcrumb{
+    margin-top: 0px;
+    height: 30px;
+}
+.theloai{
+    color: #FF5C01;
+    height: 40px;
+    background-color: #F1F6F8;
+    line-height: 40px;
+
+
+}
+
+.content2{
+    background-color: #F1F6F8;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 10px;
+
+}
+.contentup{
+    margin-top: 20px;
+    line-height: 40px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    height: 60px;
+    line-height: 60px;
+}
+.content1-left{
+
+}
+/* phan menu*/
+.navbar-inverse{
+    background-color: #FF5C01;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar .navbar-collapse .navbar-nav li a{
+    color: white;
+}
+.nav .dropdown .dropdown-menu li a{
+    color: black;
+    width: 200px;
+}
+.collapse .nav .dropdown .dropdown-menu li a:hover{
+    color: red;
+    background-color: white;
+}
+.navbar .navbar-collapse .navbar-nav li a:hover{
+    background-color: #F1F6F8;
+    color: #BBBFC1;
+}
+.breadcrumb a{
+    color: #FF5C01;
+}
+/* phan menu*/
+
+/* phan menu trai*/
+.list-group .dropdown {
+    position: relative;
+}
+.list-group .dropdown .dropdown-menu {
+    position: absolute;
+    z-index: 1;
+    left: 80px;
+    top: -5px;
+}
+
+.list-group .dropdown .dropdown-menu li a{
+    height: 40px;
+    width: 200px;
+    border-bottom: solid #BBBFC1;
+}
+.danhmuc{
+    height: 50px;
+    color: white;
+    background-color: #FF5C01 ;
+    line-height: 50px;
+}
+.content1-left .list-group .list-group-item {
+    background-color:#F5F5F5;
+
+}
+.content1-left .list-group .list-group-item a{
+    color: black;
+    text-decoration: none;
+}
+.content1-left .list-group .list-group-item a:hover{
+    color: #FF5C01;
+}
+.content1-left .dropdown .dropdown-menu{
+    background-color:#F5F5F5;
+}
+/* phan menu trai*/
+
+/* phan contentup*/
+
+    .contentup ul li a{
+        color: black;
+        text-decoration: none;
+    }
+.contentup ul li a:hover{
+    color: #FF5C01;
+}
+/* phan contentup*/
+
+/* phan hien thi sp*/
+.thumbnail .caption p{
+    color: red;
+}
+/* phan hien thi sp*/
+.content1-left .sanphambanchay .carousel .carousel-inner .item img{}
+.content1-left .sanphambanchay .carousel .carousel-inner .item img{
+        height: 400px;
+    }
+.sanphambanchay #myCarousel{
+    width: 100%;
+}
+.sanphambanchay{
+    padding: 0;
+}
+.contentup ul li {
+    list-style: none;
+}
+/*.contenttop p strong{
+    color: #FF5C01;
+}
+.contentup p strong{
+    color: #FF5C01;
+}
+*/
